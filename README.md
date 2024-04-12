@@ -167,13 +167,7 @@ plt.show()
 
 Original
 ![image](https://github.com/Afsarjumail/IMAGE-TRANSFORMATIONS/assets/118343395/dba01bb3-3c89-4121-a238-1dc5d674a091)
-
-
 Cropped
-![image](https://github.com/Afsarjumail/IMAGE-TRANSFORMATIONS/assets/118343395/417e3b94-e560-4dfc-89e5-b8da08d5542a)
-
-
-
 
 ## Result: 
 
