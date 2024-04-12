@@ -1,4 +1,4 @@
-![image](https://github.com/Afsarjumail/IMAGE-TRANSFORMATIONS/assets/118343395/a31c2ee2-0c6e-4121-8a1a-533873271f54)# IMAGE TRANSFORMATION
+# IMAGE TRANSFORMATION
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
